@@ -1,6 +1,6 @@
 {
   "name": "react-native-paper-wakanda-dropdown",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Dropdown component using React Native Paper TextInput and Menu with clear background",
   "files": [
     "dist"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/colinpp1/react-native-paper-dropdown.git"
+    "url": "git+https://github.com/colinpp1/react-native-paper-wakanda-dropdown.git"
   },
   "keywords": [
     "Dropdown",
@@ -25,9 +25,9 @@
   "author": "Colin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/colinpp1/react-native-paper-dropdown/issues"
+    "url": "https://github.com/colinpp1/react-native-paper-wakanda-dropdown/issues"
   },
-  "homepage": "https://github.com/colinpp1/react-native-paper-dropdown#readme",
+  "homepage": "https://github.com/colinpp1/react-native-paper-wakanda-dropdown#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
